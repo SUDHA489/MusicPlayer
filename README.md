@@ -36,10 +36,10 @@ python music_player.py
 
 ### Project Structure
 
-python-music-player/
-│
-├── music_player.py         # Main Python file to run the music player
-├── play.png                # Image for play button
-├── pause.png               # Image for pause button
-├── next.png                # Image for next button
-└── previous.png            # Image for previous button
+python-music-player
+
+├── music_player.py      
+├── play.png            
+├── pause.png              
+├── next.png            
+└── previous.png            
